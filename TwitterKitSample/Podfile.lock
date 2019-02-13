@@ -1,0 +1,29 @@
+PODS:
+  - BrightFutures (7.0.0):
+    - Result (~> 4.0.0)
+  - Result (4.0.1)
+  - TwitterCore (3.2.0)
+  - TwitterKit (3.4.2):
+    - TwitterCore (>= 3.2.0)
+
+DEPENDENCIES:
+  - BrightFutures
+  - TwitterCore
+  - TwitterKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BrightFutures
+    - Result
+    - TwitterCore
+    - TwitterKit
+
+SPEC CHECKSUMS:
+  BrightFutures: 7d7436e937dfc83d814c11920f157fc2a53f5bd5
+  Result: a6e784bebf48b471d59cddc1adb81f41f678c487
+  TwitterCore: 8cbc9ad34d91c63a0035ea05bfbfc0d7ca72a28c
+  TwitterKit: 5e4f41d70b9abdb41df5467f52d7aa2c0fd26ebb
+
+PODFILE CHECKSUM: 488c01abb71dca0004ed19586236a902e2410fc3
+
+COCOAPODS: 1.5.3
